@@ -2,9 +2,6 @@
 <h3 align="center">A Passionate Backend Developer </h3>
 <img align="right" alt="coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-0710&label=Profile%20views&color=0e75b6&style=flat" alt="parth-0710" /> </p>
-
-<p align="left"> <a href="https://twitter.com/parth_0710" target="blank"><img src="https://img.shields.io/twitter/follow/parth_0710?logo=twitter&style=for-the-badge" alt="parth_0710" /></a> </p>
 
 - 🔭 I’m currently working on **Job Scheduling Website**
 
@@ -29,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth-0710&show_icons=true&locale=en&layout=compact" alt="parth-0710" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth-0710&show_icons=true&locale=en" alt="parth-0710" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth-0710&" alt="parth-0710" /></p>

@@ -25,5 +25,6 @@
 <p>&nbsp&nbsp&nbsp&nbsp</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth-0710&show_icons=true&locale=en&layout=compact" alt="parth-0710" /></p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp;</p>
 
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth-0710&show_icons=true&locale=en" alt="parth-0710" /></p>

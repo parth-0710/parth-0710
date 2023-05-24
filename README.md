@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flipcart Clone Using MERN Stack And Try To Deploy On AWS<br>👯 I’m looking to collaborate on Website Development & Cloud Computing<br>🌱 I’m currently learning Devops<br>💬 Ask me about MERN STACK<br>
+🔭 I’m Currently Working On Flipcart Clone Using MERN Stack And Try To Deploy On AWS<br>👯 I’m Looking To Collaborate On Website Development & Cloud Computing<br>🌱 I’m Currently Learning Devops<br>💬 Ask Me About MERN STACK<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parth_trivedi_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-trivedi-98a80b205) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Parth_0710) 
